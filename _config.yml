@@ -10,8 +10,8 @@ title: 五绣
 email: yearan@163.com
 description: > # this means to ignore newlines until "baseurl:"
   没什么,酷爱而已...
-baseurl: "/githubA3B5" # the subpath of your site, e.g. /blog
-url: "https://githuba3b5.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ryanlee.cn" # the base hostname & protocol for your site
 twitter_username: None
 github_username:  githubA3B5
 
