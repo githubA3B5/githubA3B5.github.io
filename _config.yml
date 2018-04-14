@@ -19,3 +19,5 @@ github_username:  githubA3B5
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
